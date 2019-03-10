@@ -17,7 +17,6 @@ public class battleShips {
         deployShips();
         printMap();
 
-        System.out.println();
         System.out.println("Computer is deploying ships");
         enemyShip();
         System.out.println();
